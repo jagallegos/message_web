@@ -34854,7 +34854,7 @@ aK:function(){return new F.pc(C.o)}}
 F.pc.prototype={
 C0:function(){this.aH(new F.KZ(this))},
 L:function(a){var t=null,s=L.Io(this.a.c,t)
-return new M.nM(new E.lh(s,new P.am(1/0,56),t),new T.hy(C.ay,t,t,T.Vm(H.b([L.Io("You have pushed the button this many times:",t),L.Io(""+this.d,K.b5(a).S.d)],u.E),C.nN),t),E.QF(L.QM(C.t1),!1,this.gC_(),"Increment"),t)}}
+return new M.nM(new E.lh(s,new P.am(1/0,56),t),new T.hy(C.ay,t,t,T.Vm(H.b([L.Io("los fre fires",t),L.Io(""+this.d,K.b5(a).S.d)],u.E),C.nN),t),E.QF(L.QM(C.t1),!1,this.gC_(),"Increment"),t)}}
 F.KZ.prototype={
 $0:function(){++this.a.d},
 $S:0}
